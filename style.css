@@ -6,9 +6,15 @@ p {
 }
 em strong {
 	/*Representações de vermelho */
-	/* 
-	color: red; /*texto*/
-	color: #FF0000; /* hexadecima, 00=mínimo de cor FF=máximo de cor. Pares de dígitos RGB*/ 
-	*/ 
-	rgb(255, 0, 0); /*Padrão RGB, 0 = mínimo de cor, 255 = máximo de cor*/
+	/*
+	rgb(255, 0, 0); /*Padrão RGB, 0 = mínimo de cor, 255 = máximo de cor. NAO ESTA FUNCIONANDO*/
+	*/
+	
+	color: #FF0000 /* hexadecima, 00=mínimo de cor FF=máximo de cor. Pares de dígitos RGB*/
+	
+	
+    /*	
+	color: red; /*texto*/ 
+	*/
+	 
 }
