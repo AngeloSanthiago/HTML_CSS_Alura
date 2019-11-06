@@ -5,5 +5,8 @@ p {
 	text-align: center;
 }
 em strong {
-	color: red;
+	/*Representações de vermelho */
+	/* color: red; */ /*texto*/
+	color: #FF0000; /* hexadecima, 00=mínimo de cor FF=máximo de cor. Pares de dígitos RGB*/ 
+	/* rgb(255,0,0); */ /*Padrão RGB, 0 = mínimo de cor, 255 = máximo de cor*/
 }
