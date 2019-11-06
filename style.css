@@ -5,16 +5,19 @@ p {
 	text-align: center;
 }
 em strong {
-	/*RepresentaÁıes de vermelho */
-	/*
-	rgb(255, 0, 0); /*Padr„o RGB, 0 = mÌnimo de cor, 255 = m·ximo de cor. NAO ESTA FUNCIONANDO*/
-	*/
+	/*Representa√ß√µes de vermelho */
 	
-	color: #FF0000 /* hexadecima, 00=mÌnimo de cor FF=m·ximo de cor. Pares de dÌgitos RGB*/
+	/*	Padr√£o RGB, 0 = m√≠nimo de cor, 255 = m√°ximo de cor. NAO ESTA FUNCIONANDO
+	 *  rgb(255, 0, 0); 
+	 */
 	
+	/* hexadecima, 00=m√≠nimo de cor FF=m√°ximo de cor. Pares de d√≠gitos RGB
+	 * color: #FF0000;  
+	 */
+	 rgb(255, 0, 0);
 	
-    /*	
-	color: red; /*texto*/ 
-	*/
+    /* texto	
+	 * color: red;  
+	 */
 	 
 }
