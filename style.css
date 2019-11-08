@@ -14,7 +14,7 @@ em strong {
 	/* hexadecima, 00=mínimo de cor FF=máximo de cor. Pares de dígitos RGB
 	 * color: #FF0000;  
 	 */
-	 rgb(255, 0, 0);
+	 color: #FF0000;
 	
     /* texto	
 	 * color: red;  
