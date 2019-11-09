@@ -4,7 +4,8 @@ body {
 	width: 100%;
 }
 .principal{
-	background: #CCCCCC	
+	background: #CCCCCC;
+	padding: 30px;	
 }
 h1 {
 	 text-align: center
@@ -37,9 +38,21 @@ em strong {
 	font-style: italic;
 }
 .beneficios{
-	background: #FFFFFF
+	background: #FFFFFF;
+	padding: 20px;
 }
 
 h2{
 	text-align: center;
+}
+/* elemento com alinhamento block ocupa a linha inteira sempre */
+/* elemeto inline não ocupa a linha inteira mas não permite mexer nos espacamentos*/
+ul{
+	display: inline-block; /* não ocupa a linha interira e permite mexer nos espaçamentos*/
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%
+}
+.imagembeneficios{
+	width: 50%;
 }
