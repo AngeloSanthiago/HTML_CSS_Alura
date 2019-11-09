@@ -7,8 +7,11 @@ body {
 	background: #CCCCCC;
 	padding: 30px;	
 }
-h1 {
-	 text-align: center
+.titulo-principal{
+	padding-left: 20px;
+}
+.titulo-centralizado {
+	 text-align: center;
 }
 p {
 	text-align: center;
@@ -42,9 +45,7 @@ em strong {
 	padding: 20px;
 }
 
-h2{
-	text-align: center;
-}
+
 /* elemento com alinhamento block ocupa a linha inteira sempre */
 /* elemeto inline não ocupa a linha inteira mas não permite mexer nos espacamentos*/
 ul{
